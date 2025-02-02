@@ -3,7 +3,8 @@
 ## 🎯 Objective  
 Create a responsive and interactive **Task Manager** using **React.js** that allows users to manage tasks across multiple stages.  
 
-## ✅ Must-Have Features  
+## ✅ Must-Have Features 
+- A clean and user-friendly UX
 - Display a list of tasks with the following details:  
   - Title  
   - Description  
@@ -30,3 +31,6 @@ Create a responsive and interactive **Task Manager** using **React.js** that all
   - Brief explanation of the implementation  
   - Mention which bonus points are covered in the implementation  
 - A working link of the deployed app (You can use any tool/platform you're comfortable with for deployment)  
+
+
+⏳ **Estimated Time**: ~4-5 hours  
